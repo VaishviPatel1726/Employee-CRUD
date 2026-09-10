@@ -1,4 +1,4 @@
-function SearchSort({ search, setSearch, sortBy, setSortBy, sortOrder, setSortOrder, recordsPerPage, setRecordsPerPage, total, }) {
+function Searchsort({ search, setSearch, sortBy, setSortBy, sortOrder, setSortOrder, recordsPerPage, setRecordsPerPage, total, }) {
 
     return (
         <>
@@ -44,4 +44,4 @@ function SearchSort({ search, setSearch, sortBy, setSortBy, sortOrder, setSortOr
     );
 }
 
-export default SearchSort;
+export default Searchsort;

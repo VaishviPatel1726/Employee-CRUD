@@ -1,4 +1,4 @@
-function EmployeeForm({ formData, errors, editId, onChange, onSubmit, onReset, }) {
+function Employeeform({ formData, errors, editId, onChange, onSubmit, onReset, }) {
 
   const inputClass = (field) =>
     `form-control ${errors[field] ? "is-invalid" : ""}`;
@@ -108,4 +108,4 @@ function EmployeeForm({ formData, errors, editId, onChange, onSubmit, onReset, }
   );
 }
 
-export default EmployeeForm;
+export default Employeeform;

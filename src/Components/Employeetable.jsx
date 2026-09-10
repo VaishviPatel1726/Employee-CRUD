@@ -1,4 +1,4 @@
-function EmployeeTable({ employees, onEdit, onDelete }) {
+function Employeetable({ employees, onEdit, onDelete }) {
     return (
 
         <>
@@ -52,4 +52,4 @@ function EmployeeTable({ employees, onEdit, onDelete }) {
     );
 }
 
-export default EmployeeTable;
+export default Employeetable;
