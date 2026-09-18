@@ -174,7 +174,6 @@ function App() {
         <div className="container">
           <div className="text-center mb-4">
             <h1 className="fw-bold text-primary mb-1">Employee CRUD</h1>
-            <p className="text-muted mb-0"> ReactJS • Form Handling • Search • Sort • Pagination • localStorage </p>
           </div>
 
           <EmployeeForm formData={formData} errors={errors} editId={editId} onChange={handleChange} onSubmit={handleSubmit} onReset={resetForm} />
