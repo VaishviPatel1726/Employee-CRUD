@@ -53,3 +53,4 @@ This is a CRUD application developed using React JS to manage employee records.
 
 ## Author
 Vaishvi Patel
+![Home Page](screenshot 2026-08-03 212436.png)
